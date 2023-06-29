@@ -1,0 +1,15 @@
+HTML
+<center> = memposisikan teks berada di tengah halaman website
+<a> = menambahkan link
+<p> = membuat paragraf
+<hr> = menambahkan garis
+<br> = Enter
+
+<table> = tag membuat table
+<tr> = table row (satu baris dari kiri ke kanan)
+<td> = table data 
+cellspacing = jarak antara td
+cellpadding = jarak didalam td dengan huruf/data yg ada dalam td
+
+<form> = tag form
+<textarea> = untuk inputan yang lebih panjang

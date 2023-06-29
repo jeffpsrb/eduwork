@@ -1,0 +1,19 @@
+body{
+    font-family: 'century gothic';
+}
+.menu{
+    text-decoration: none;
+    color: black;
+}
+.slider{
+    height: 500px;
+}
+.line{
+    background: black;
+    width: 100px;
+    height: 2px;
+}
+.content{
+    text-align: justify;
+    line-height: 20px;
+}
